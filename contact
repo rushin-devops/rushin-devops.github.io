@@ -25,17 +25,17 @@
 
     <!-- MAIN CONTENT -->
 
-       <a href="./index.html"> Back Home </a> <p>|</p> <a href="./contact"> Contact </a> 
+       <a href="./index.html"> Back Home </a> <p>|</p> <a href="./about.html"> About The Author </a> 
 
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"
     aria-hidden="true"><span aria-hidden="true" class="octicon
-    octicon-link"></span></a>About the Author</h3>
+    octicon-link"></span></a>Contact</h3>
 
-<p>Occupation: DevOps/Systems Administrator</p>
-<p>Location: Cape Town, South Africa</p>
+<p>Mail: devops@unattendedmail.com</p>
+<p>Skype: No_Skype</p>
 
 
 
@@ -56,4 +56,4 @@
     
 
   </body>
-</html>
+</html> 
