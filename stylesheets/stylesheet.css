@@ -369,6 +369,39 @@ Full-Width Styles
 }
 
 
+/* Starting NavBar Styling !!!! */
+
+
+#navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+	/*background-color: #000;*/
+	background-color: none;
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #1E90FF; 
+	/*background-color: #000;*/
+	background-color: none; 
+	} 
+ 
+#navbar ul li a:hover { 
+	text-decoration: underline;
+	color: #fff; 
+	/*background-color: #fff;*/ 
+	background-color: none;
+	} 
+
+
+/* End of NavBar Styling !!!! */
 
 /*******************************************************************************
 Small Device Styles
