@@ -382,7 +382,9 @@ Full-Width Styles
 	} 
  
 #navbar ul li {  
-	display: inline; 
+	display: inline;
+	font-size: 24px;
+	font-weight: 300; 
 	} 
  
 #navbar ul li a { 
