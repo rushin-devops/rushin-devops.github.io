@@ -405,6 +405,17 @@ Full-Width Styles
 
 /* End of NavBar Styling !!!! */
 
+
+/* Start of PageCounter Styling !!!! */
+ 
+#pagecounter {
+	position: relative;
+	left: 850px;
+	/*border: 3px solid #73AD21;*/
+}
+
+
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
